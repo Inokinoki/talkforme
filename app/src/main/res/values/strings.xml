@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TalkForMe</string>
+    <string name="default_hint">Double click to edit</string>
+    <string name="nothing_to_talk">I have nothing to talk with you</string>
+</resources>

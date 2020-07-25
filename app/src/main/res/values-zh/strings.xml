@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">替我说话</string>
+    <string name="default_hint">双击编辑</string>
+    <string name="nothing_to_talk">我不想和你说话</string>
+</resources>
